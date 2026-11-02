@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  "Hello devops CA"
+echo  "Hello DEVOPS CA"
